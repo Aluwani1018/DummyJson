@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Dummy.Json.Service/bin/Debug/net6.0
+/Dummy.Json.Console/obj
+/Dummy.Json.Console/bin/Debug/net6.0
+/Dummy.Json.Service/obj
+/.vs
